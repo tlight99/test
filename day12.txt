@@ -32,7 +32,7 @@ git 명령어
     2. git add
         깃에 버전 관리할 파일을 선택(깃에 올릴 파일 선택, stage 올림)
         git add .(변화가 있는 애들은 모두 스테이징 한다)
-    3. git commot -m "커밋할 메시지"
+    3. git commit -m "커밋할 메시지"
         하나의 버전으로 만들어서 관리(저장)
     4. git remote add origin "깃허브 주소"
         로컬 저장소에 깃허브 저장소 주소 설정
