@@ -53,4 +53,8 @@ Github
     경로 이동 할 수 있는 방법
     cd (하위폴더 이동)
     cd.. (상위 폴더 이동)
-    
+
+git 에러해결
+    author identity unknown
+        git config --global user.email "깃허브 이메일주소"
+        git config --global user.name "깃허브 이름"
